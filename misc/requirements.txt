@@ -1,6 +1,6 @@
 # The pruning packages
--e ./src/torchprune
--e ./src/experiment
+-e /content/torchprune/src/torchprune
+-e /content/torchprune/src/experiment
 
 # We need those with special tags unfortunately...
 -f https://download.pytorch.org/whl/lts/1.8/torch_lts.html
