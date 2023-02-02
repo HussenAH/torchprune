@@ -6,7 +6,7 @@ from __future__ import print_function
 import setuptools
 
 
-with open("/content/torchprune/src/torchprune/README.md", "r") as fh
+with open("/content/torchprune/src/torchprune/README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
 
 setuptools.setup(
