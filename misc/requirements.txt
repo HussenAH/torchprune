@@ -12,7 +12,7 @@ torch==1.13.1
 torchvision
 torchaudio
 google-cloud-bigquery==3.4.2
-
+flask==2.2.2
 
 # Some extra requirements for the code base
 jupyter
