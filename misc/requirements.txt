@@ -8,7 +8,6 @@
 #torchvision==0.9.2+cu111 
 #torchaudio==0.8.2 
 
-torch==1.13.1
 torchvision
 torchaudio
 google-cloud-bigquery==3.4.2
