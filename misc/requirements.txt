@@ -12,7 +12,7 @@ torchvision
 torchaudio
 google-cloud-bigquery==3.4.2
 flask==2.2.2
-sickit-learn==1.2.1
+scikit-learn==1.2.1
 # Some extra requirements for the code base
 jupyter
 black
