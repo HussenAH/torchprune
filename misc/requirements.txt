@@ -13,6 +13,7 @@ torchaudio
 google-cloud-bigquery==3.4.2
 flask==2.2.2
 scikit-learn==1.2.1
+imagecorruptions==1.1.2
 # Some extra requirements for the code base
 jupyter
 black
