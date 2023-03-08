@@ -48,5 +48,5 @@ setuptools.setup(
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
         "Intended Audience :: Science/Research",
     ],
-    python_requires=">=3.6,<3.9",
+    python_requires=">=3.6,<3.10",
 )
